@@ -1,0 +1,18 @@
+{
+  "name": "kbia_line_chart",
+  "version": "0.0.1",
+  "description": "KBIA Line Chart Template",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rollup": "^2.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Lawrence (nathan@nathanlawrence.org)",
+  "license": "BSD-2-Clause"
+}
